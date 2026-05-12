@@ -1,8 +1,6 @@
 # --- MATLAB ---
 *.asv
-*.fig
-# Décommente la ligne suivante si tu veux exclure tes 300Mo de données
-# *.mat
+# On ne liste pas .mat et .fig ici car ils sont gérés par LFS
 
 # --- PYTHON ---
 __pycache__/
@@ -11,24 +9,23 @@ __pycache__/
 *.pyd
 
 # --- AUDIO & VIDÉO ---
-*.wav
-*.mp4
+# On ne liste pas .wav et .mp4 ici car ils sont gérés par LFS
 
-# --- BUREAUTIQUE & TEMP ---
+# --- BUREAUTIQUE ---
+# On ne liste pas .docx, .pptx, .odt ici car ils sont gérés par LFS
 *.tmp
-*.docx
-*.DOCX
-*.pptx
-*.odt
 *.bin
 ~
 
-# --- LATEX (au cas où) ---
+# --- CONFIG & NOTES ---
+.obsidian/
+.DS_Store
+
+# --- LATEX ---
 *.aux
 *.log
 *.out
 *.toc
 *.synctex.gz
-
-# --- Dossier
-.osidian/
+*.fdb_latexmk
+*.fls
