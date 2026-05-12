@@ -1,0 +1,13 @@
+== REQUIREMENTS ==
+
+Libraries required for using LibTiePie:
+* libusb-1.0
+* libudev
+
+
+== INSTALLATION ==
+
+To install LibTiePie run the install.sh script as root user or using sudo. The
+install.sh script will install the library into /usr/lib, the header files will
+be installed into /usr/include. An udev rules file will be installed so that
+users in the plugdev group can access TiePie engineering USB instruments.

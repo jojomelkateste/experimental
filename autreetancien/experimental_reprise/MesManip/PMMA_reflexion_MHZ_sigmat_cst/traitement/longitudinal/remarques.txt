@@ -1,0 +1,7 @@
+Tiens le fichier fc=1.3 a une frequence centrale proche de 1.23
+le fc=1.4 est plustot à 1.35 
+le fc=1.5 est plustot 1.45
+---
+le fc=0.5 est plustot à 0.6 
+le fc=0.6 est plustot à 0.68
+le fc=0.7 est plustot à 0.75

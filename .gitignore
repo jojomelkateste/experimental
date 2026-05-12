@@ -1,0 +1,34 @@
+# --- MATLAB ---
+*.asv
+*.fig
+# Décommente la ligne suivante si tu veux exclure tes 300Mo de données
+# *.mat
+
+# --- PYTHON ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- AUDIO & VIDÉO ---
+*.wav
+*.mp4
+
+# --- BUREAUTIQUE & TEMP ---
+*.tmp
+*.docx
+*.DOCX
+*.pptx
+*.odt
+*.bin
+~
+
+# --- LATEX (au cas où) ---
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# --- Dossier
+.osidian/
