@@ -54,6 +54,17 @@ end
 % figure; 
 % plot(src.Data);
 % xlabel("Indices")
+% hold on;
+% verifier qu on a les bon parametres
+% data = load('e1_exp2.mat');
+% src = data.src1;
+% fe = src.SampleFrequency;
+% N = length(src.Data);
+% temps = (0:(N-1))/fe; % temps 
+% freq = (-N/2:N/2-1)*(fe/N);
+% 
+% plot(src.Data)
+
 % MinPeakHeight = max(src.Data)/10;%8e-3;
 % [pulse_array] = signal2pulse(src.Data,8e-3,"MinPeakDistance",MinPeakDistance_list(i));
 
