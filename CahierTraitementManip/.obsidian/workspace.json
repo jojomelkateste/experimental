@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cahier Manip/Experiencers_a_prevoirs.md",
+                "file": "README 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Experiencers_a_prevoirs"
+              "title": "README 1"
             }
           }
         ]
@@ -171,34 +171,38 @@
   },
   "active": "fc9fbdaedce0c81d",
   "lastOpenFiles": [
-    "Cahier Manip/Cahier_manip_reprise.pdf",
+    "readme.md",
+    "README 1.md",
+    "Cahier Manip/Experiencers_a_prevoirs.md",
+    "readme.pdf",
+    "Cahier Manip/cahier_manip_latex/build/Cahier_manip.synctex(busy)",
+    "Cahier Manip/cahier_manip_latex/Cahier_manip.tex~txs0",
+    "Cahier Manip/cahier_manip_latex/build/Cahier_manip.synctex.gz",
+    "Cahier Manip/cahier_manip_latex/build/Cahier_manip.toc",
+    "Cahier Manip/cahier_manip_latex/build/Cahier_manip.pdf",
+    "Cahier Manip/cahier_manip_latex/build/Cahier_manip.out",
+    "Cahier Manip/cahier_manip_latex/build/Cahier_manip.aux",
+    "Cahier Manip/cahier_manip_latex/build/Cahier_manip.log",
+    "Cahier Manip/cahier_manip_latex/build",
     "Dimensionement/Dimensionnement 2026 04 04.md",
     "Dimensionement/Dimensionnement maquette.md",
     "Cahier Manip/2026-03-30 Première (vrai) manip en transmission.md",
     "Cahier Manip/2026.03.26 Reproduction experience mesure vp en transmission.md",
-    "Cahier Manip/Experiencers_a_prevoirs.md",
     "Cahier Manip/2026-03-31 reproductibilite.md",
-    "Cahier Manip/2026-03-31 reproductibilite.pdf",
     "Cahier Manip/2026.03.23 Du signal ou pas.md",
-    "readme.md",
     "image_vrac/Pasted image 20260404185951.png",
     "image_vrac/Pasted image 20260404120219.png",
     "image_vrac/Pasted image 20260404110416.png",
     "image_vrac/Pasted image 20260404104019.png",
     "algorithme de traitement.md",
     "Traitement Ponctuel/Plaque PMMA Ponctuel.md",
-    "Sans titre",
     "image_vrac/Pasted image 20260403163643.png",
-    "Dimensionement",
     "image_vrac/Pasted image 20260331191244.png",
     "image_vrac/Pasted image 20260330152826.png",
     "Methode de traitement.md",
     "image_vrac/Pasted image 20260323104534.png",
     "image_vrac/Pasted image 20260323111507.png",
     "image_vrac/Pasted image 20260323110256.png",
-    "Cahier Manip",
-    "image_vrac",
-    "Traitement Ponctuel",
     "Welcome.md"
   ]
 }
