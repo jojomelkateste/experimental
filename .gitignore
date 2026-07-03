@@ -22,6 +22,8 @@ __pycache__/
 .DS_Store
 
 # --- LATEX ---
+/build
+build/
 *.aux
 *.log
 *.out
